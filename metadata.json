@@ -1,0 +1,8 @@
+{
+  "name": "SlothOps — Hacktoberfest Slow & Steady AI Studio",
+  "description": "An open-source AI productivity suite that rewards laziness. Built for Hacktoberfest 2026 Week 3 celebrating International Sloth Day, featuring local-first chat summarization, fridge-to-meal planning, file hoard tidying, offline wind-down soundscapes, and dev challenge submission export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
